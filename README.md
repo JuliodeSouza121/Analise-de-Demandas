@@ -6,8 +6,8 @@ Este projeto consiste no desenvolvimento de um dashboard corporativo em Power BI
 A solução foi utilizada por líderes e gestores da Agência Nacional de Aviação Civil (ANAC) para monitorar indicadores-chave, identificar gargalos operacionais e embasar ações de automação e prevenção de demandas recorrentes.
 
 ---
-
-
+Página 1 - Projeto.png
+Página 2 - Projeto.png
 ---
 
 ## Objetivos do Projeto
