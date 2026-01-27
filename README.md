@@ -7,9 +7,11 @@ A solução foi utilizada por líderes e gestores da Agência Nacional de Aviaç
 
 ---
 ## Visão do Dashboard
-Páginal 1
+Página 1
+
 ![Dashboard de Análise de Demandas](Pag_1_Projeto.png)
-Páginal 2
+Página 2
+
 ![Dashboard de Análise de Demandas](Pag_2_Projeto.png)
 ---
 
