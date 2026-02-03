@@ -1,7 +1,7 @@
 # Projeto — Análise de Demandas (ANAC)
 
 ## Visão Geral
-Este projeto consiste no desenvolvimento de um dashboard corporativo em Power BI voltado à análise de demandas internas, com foco em eficiência operacional, qualidade de atendimento e apoio à tomada de decisão estratégica.
+Este projeto consiste no desenvolvimento de um dashboard corporativo em Power BI voltado à análise de demandas internas, com foco em eficiência operacional, qualidade de atendimento e apoio à tomada de decisão totalmente estratégica.
 
 A solução foi utilizada por líderes e gestores da Agência Nacional de Aviação Civil (ANAC) para monitorar indicadores-chave, identificar gargalos operacionais e embasar ações de automação e prevenção de demandas recorrentes.
 
@@ -32,7 +32,7 @@ Página 2
 ---
 
 ## Principais Resultados
-- Aumento da qualidade dos atendimentos, com avaliações “boas” ou “ótimas passando de 82% (2022) para 88% (2025).
+- Aumento da qualidade dos atendimentos, com avaliações “boas” ou “ótimas” passando de 82% (2022) para 88% (2025).
 - Redução do tempo médio de resposta de 3,45 dias (2024) para 1,76 dias (2025).
 - Identificação de temas recorrentes, permitindo a criação de sistemas preventivos e automatizados.
 - Redução de quase 40% no volume de demandas, de 1.726 para 1.030 no comparativo jan–jun (2022 x 2025).
